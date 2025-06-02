@@ -44,6 +44,7 @@ cd seu-repositorio
 3.Depois rode o projeto com: npm run dev
 
 Imagens do projeto: 
+
 ![home](https://github.com/user-attachments/assets/2871f4f6-be74-408e-b123-fb31ae40e4d8)
 
 ![smartphones](https://github.com/user-attachments/assets/a2a08da3-9eaa-4f50-a713-00d77556714b)
