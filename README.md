@@ -48,7 +48,7 @@ Imagens do projeto:
 
 ![smartphones](https://github.com/user-attachments/assets/a2a08da3-9eaa-4f50-a713-00d77556714b)
 
-![laptos]![home decoration](https://github.com/user-attachments/assets/e5a80a37-96a4-4d65-91df-6c4c33017d22)
+[home decoration](https://github.com/user-attachments/assets/e5a80a37-96a4-4d65-91df-6c4c33017d22)
 (https://github.com/user-attachments/assets/dd858d61-0548-48a1-bb18-c2f3fc89de17)
 
 
