@@ -48,8 +48,15 @@ Imagens do projeto:
 
 ![smartphones](https://github.com/user-attachments/assets/a2a08da3-9eaa-4f50-a713-00d77556714b)
 
-[home decoration](https://github.com/user-attachments/assets/e5a80a37-96a4-4d65-91df-6c4c33017d22)
-(https://github.com/user-attachments/assets/dd858d61-0548-48a1-bb18-c2f3fc89de17)
+![laptos](https://github.com/user-attachments/assets/e9bafad3-b8d9-4604-81ac-a33232aaa80f)
+
+![fragrances](https://github.com/user-attachments/assets/ace799d6-357f-4e9a-806d-44fde5e84054)
+
+![home decoration](https://github.com/user-attachments/assets/ac21e897-65d8-4173-a0d3-b2f81767e10e)
+
+
+
+
 
 
 Link do vídeo explicativo do projeto: https://www.youtube.com/watch?si=YCvA01SpQXgfcKL2&v=51Rfa9sHwqI&feature=youtu.be 
