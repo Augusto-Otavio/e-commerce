@@ -44,13 +44,12 @@ cd seu-repositorio
 3.Depois rode o projeto com: npm run dev
 
 Imagens do projeto: 
+![home](https://github.com/user-attachments/assets/2871f4f6-be74-408e-b123-fb31ae40e4d8)
 
-![home](https://github.com/user-attachments/assets/2de3e486-6e8a-42c4-ac06-3a3f4e1f3cdb)
+![smartphones](https://github.com/user-attachments/assets/a2a08da3-9eaa-4f50-a713-00d77556714b)
 
-![smartphones](https://github.com/user-attachments/assets/59e90556-be18-498c-91ff-310c0cdb4719)
+![laptos]![home decoration](https://github.com/user-attachments/assets/e5a80a37-96a4-4d65-91df-6c4c33017d22)
+(https://github.com/user-attachments/assets/dd858d61-0548-48a1-bb18-c2f3fc89de17)
 
-![laptos](https://github.com/user-attachments/assets/edf2c672-cd74-41bb-a8f1-ab19e0ecac36)
-
-![fragrances](https://github.com/user-attachments/assets/8f7a3dae-5cd8-4bc0-b2a3-fbbdb1e354cb)
 
 Link do vídeo explicativo do projeto: https://www.youtube.com/watch?si=YCvA01SpQXgfcKL2&v=51Rfa9sHwqI&feature=youtu.be 
